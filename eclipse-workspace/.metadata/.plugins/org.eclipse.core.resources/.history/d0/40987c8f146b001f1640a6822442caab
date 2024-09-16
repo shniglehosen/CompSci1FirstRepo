@@ -1,0 +1,12 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		int months, days, years;
+		
+		months = 2;
+		years = 3;
+	
+		System.out.println(months + " "+years);
+	}
+}

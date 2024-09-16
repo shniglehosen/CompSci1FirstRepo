@@ -1,0 +1,29 @@
+package Nathan_Aramyan_Assignment01;
+
+import java.util.Scanner;
+
+public class Nathan_Aramyan_Assignment01 {
+
+	public static void main(String[] args) {
+		String input; //To Hold a line of input
+		char answer; // To hold a single character
+		
+		//Create a Scanner object for keyboard inpu.
+		Scanner keyboard = new Scanner (System.in);
+		
+		// Ask the user a question
+		System.out.print("Are you having fun?  (Y = yes, N=no) ");
+		input = keyboard.nextLine(); // Get a Line of input.
+		answer = input.charAt(0); //Get the first character.
+		
+		if(answer) == 'N') {
+				System.out.println("Sorry to hear that you are not having fun." + "Let read this story to see if it will better")
+		}
+		
+		else {
+			System.out.println("AWESOME. There will be a lot more fun coming.");		
+		}
+		keyboard.close();
+	}
+
+}

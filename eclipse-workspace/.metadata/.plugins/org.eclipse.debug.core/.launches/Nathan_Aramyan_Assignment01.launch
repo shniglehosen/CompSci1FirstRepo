@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Nathan_AramyanAssignment01/src/Nathan_Aramyan_Assignment01/Nathan_Aramyan_Assignment01.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Nathan_Aramyan_Assignment01.Nathan_Aramyan_Assignment01"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Nathan_AramyanAssignment01"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Nathan_AramyanAssignment01"/>
+</launchConfiguration>

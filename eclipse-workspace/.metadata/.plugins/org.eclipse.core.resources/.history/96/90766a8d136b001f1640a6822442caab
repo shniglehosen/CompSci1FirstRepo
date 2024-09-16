@@ -1,0 +1,13 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		int age, weight, temp;
+	
+			age = 32;
+			weight = 110;
+			temp = 72;
+			System.out.println(age + weight + temp);
+	}
+
+}
